@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @smd0037
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+smd0037/smd0037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I am attesting that this GitHub handle smd0037 is linked to the Tezos account tz1aTpSTe6RjwV3BNoXZ6YECu98Uc628GGTg for tzprofiles
+
+sig:edsigtna2L5k5NFrh7XHvPh273xpeafKwv1czuV6FsN2EMKcxRLxhfWKPoub2jJTer9fjgKxuGsWcG11qMQ6kB4AtPqgFPpcnyP
